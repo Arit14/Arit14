@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aritro Mukherjee</h1>
-<h3 align="center">Data Analyst / Data Enthusiast</h3>
+<h3 align="center">Data / Business Analyst</h3>
 
 - 🌱 I’m currently learning **Microsoft Power BI, MySQL, Microsoft Excel, Data Visualization, Data Modeling, Data Cleaning**
 
-- 🤝 I’m looking for an opportunity in **Data Analytics**
+- 🤝 I’m currently working on honing the fundamentals of data and business analysis to unlock insights that drive strategic decisions and propel business growth.
 
 - 📫 How to reach me **aritromkh@gmail.com**
 
