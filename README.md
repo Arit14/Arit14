@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Microsoft Power BI,MySQL,Microsoft Excel, Data Visualization, Data Modeling, Data Cleaning**
 
-- 🤝 I’m looking for help with **Data Analytics**
+- 🤝 I’m looking for an opportunity in **Data Analytics**
 
 - 📫 How to reach me **aritromkh@gmail.com**
 
